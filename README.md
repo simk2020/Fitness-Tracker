@@ -1,6 +1,12 @@
 # Fitness-Tracker
 Fitness Tracker
 
+
+password : Workout123
+
+mongodb+srv://workout_admin:Workout123@cluster0.srpfq.mongodb.net/workoutTracker?retryWrites=true&w=majority
+
+
 # NoSQL Homework: Workout Tracker
 
 For this assignment, you'll create a workout tracker.
