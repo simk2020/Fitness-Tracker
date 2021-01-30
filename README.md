@@ -1,23 +1,7 @@
 # Fitness-Tracker
-Fitness Tracker
 
-
-password : Workout123
-
-mongodb+srv://workout_admin:Workout123@cluster0.srpfq.mongodb.net/workoutTracker?retryWrites=true&w=majority
-
-
-# NoSQL Homework: Workout Tracker
-
-For this assignment, you'll create a workout tracker.
-
-You have already been provided with the front end code in the `Develop` folder. 
-
-This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
-
-## User Story
-
-* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+## Description: 
+As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ## Business Context
 
@@ -65,10 +49,9 @@ Follow these guidelines for committing:
 
 We want you to have well over 200 commits by graduation, so commit early and often!
 
-## Submission on BCS
+## Submission:
+Link to Github: https://github.com/simk2020/Fitness-Tracker.git
+Link to Heroku : https://damp-oasis-99864.herokuapp.com/ 
 
-You are required to submit the following:
 
-* The URL to the deployed application
-
-* The URL to the GitHub repository
+mongodb+srv://workout_admin:Workout123@cluster0.srpfq.mongodb.net/workoutTracker?retryWrites=true&w=majority
